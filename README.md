@@ -18,6 +18,7 @@ All about camera IP
 
 ## Links :
 * https://fasyl-1.tvc.mx/shop/catalog/product_info.php?products_id=1060
+* https://www.ispyconnect.com/download.aspx
 
 ## Manual PDF
 [PDF](./files/IP7132.pdf)
